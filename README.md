@@ -36,6 +36,10 @@ To get started with the Trading App, follow these steps:
    ```
    ./output/output file
    ```
+5. **Shortcut for running and compiling:**
+Alternatively, you can use the shortcut script to simplify the compiling and running process.
+
+Run: ``` ./compile-and-run.sh  ```
 
 ### Prerequisites
 
